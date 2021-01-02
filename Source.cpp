@@ -3,7 +3,7 @@
 using namespace std;
 
 unsigned long long int Factorial(int m);
-double Power(double n, int extent);
+double Power(double foundation, int exponent);
 void Fibonacci(unsigned long long int a, unsigned long long int b, unsigned long long int c, int d, int i);
 void Fibonacci(unsigned long long int a, unsigned long long int b, unsigned long long int c, int d);
 
